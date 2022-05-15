@@ -1,0 +1,28 @@
+.corpo{
+    border-radius: 50px;
+    background-color: rgb(253, 170, 167);
+    border-color: rgb(212,175,55);
+    border: 5px solid;
+    margin: 2% 5%;
+    text-align: center;
+    color: black;
+    padding: 4% 2%;
+    font-family: Arial;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+body{
+    background-color: rgb(249,176,240);
+}
+.box{
+    border: 1px solid;
+    border-color: blue;
+    margin: 1% 5%;
+    width: 50%;
+    max-width: 50%;
+    max-height: 25%;
+}
+
